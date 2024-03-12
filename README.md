@@ -3,7 +3,7 @@
 ## How to install
 
 ```bash
-git clone 
+git clone https://github.com/Thebloodraccoon/university-conspect.git
 ```
 
 ## How to help me
